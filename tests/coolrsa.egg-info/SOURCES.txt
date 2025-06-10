@@ -1,0 +1,5 @@
+setup.py
+coolrsa.egg-info/PKG-INFO
+coolrsa.egg-info/SOURCES.txt
+coolrsa.egg-info/dependency_links.txt
+coolrsa.egg-info/top_level.txt
