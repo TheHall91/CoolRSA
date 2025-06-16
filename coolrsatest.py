@@ -1,4 +1,5 @@
 from coolrsa import func
 
+print(func.primeTestFermat())
 
-print(func.rsaround())
+print(func.selectPQ())
